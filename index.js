@@ -3,7 +3,7 @@ const inquirer = require("inquirer");
 const generateReadme = require("./src/page-template");
 
 const promptReadme = () => {
-  // Prompt user for project's title, description, installation instructions, usage information, contribution guidelines, and test instructions.
+  // Prompt user for project's title, description, installation instructions, usage information, contribution guidelines, license, GitHub username, email, and test instructions.
   return inquirer
     .prompt([
       {
