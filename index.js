@@ -120,7 +120,6 @@ const promptReadme = () => {
       },
     ])
     .then((readmeData) => {
-      console.log(readmeData);
       return readmeData;
     });
 };
