@@ -1,3 +1,5 @@
+![License Badge](https://img.shields.io/badge/license-GNU%20GPLv3-green)
+
 # My Project
 
 ## Description
@@ -22,7 +24,7 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 ## License
 
-This project is covered under the ISC license.
+This project is covered under the GNU GPLv3 license.
 
 ## Contributing
 
@@ -34,4 +36,6 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 ## Questions
 
-If you have questions regarding this project, my GitHub profile is [https://www.github.com/gacx89](https://www.github.com/gacx89)
+If you have questions regarding this project, my GitHub profile is <https://www.github.com/gacx89>.
+
+Additionally, I can be reached by email at <gacx89@gmail.com>.

@@ -2,7 +2,9 @@ module.exports = (templateData) => {
   // destructure page data by section
   //const { projects, about, ...header } = templateData;
 
-  return `# ${templateData.title}
+  return `![License Badge](https://img.shields.io/badge/license-${encodeURI(templateData.license)}-green)
+
+# ${templateData.title}
 
 ## Description
 ${templateData.description}
@@ -38,7 +40,9 @@ ${templateData.tests}
 
 ## Questions
 
-If you have questions regarding this project, my GitHub profile is [https://www.github.com/${templateData.github}](https://www.github.com/${templateData.github})
+If you have questions regarding this project, my GitHub profile is <https://www.github.com/${templateData.github}>.
+
+Additionally, I can be reached by email at <${templateData.email}>.
 `;
 };
 
