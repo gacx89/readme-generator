@@ -129,5 +129,6 @@ promptReadme()
     return generateReadme(readmeData);
   })
   .then((pageMarkdown) => {
+    console.log("README Generated!");
     return writeFile(pageMarkdown);
   });

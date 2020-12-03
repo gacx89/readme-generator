@@ -1,9 +1,9 @@
-![License Badge](https://img.shields.io/badge/license-GNU%20GPLv3-green)
+![License Badge](https://img.shields.io/badge/license-MIT-green)
 
-# My Project
+# Password Generator
 
 ## Description
-This is a cool project for doing cool stuff.
+This repository is where the Module 3 Javascript Challenge: Password Generator is located. This password generator takes input from the user to determine what types of characters to generate the password with. It also will generate a password of the user's request length.
 
 ## Table of Contents 
 
@@ -16,23 +16,23 @@ This is a cool project for doing cool stuff.
 
 ## Installation
 
-1. Install project 2. install extra stuff 3. run project
+Download files from repo to your local computer or wherever web application will be hosted.
 
 ## Usage
 
-Use this project anyway you want.
+Open up index.html with any web browser in order to run web application.
 
 ## License
 
-This project is covered under the GNU GPLv3 license.
+This project is covered under the MIT license.
 
 ## Contributing
 
-Anyone can freely contribute to this project
+Anyone can freely contribute to this application.
 
 ## Tests
 
-There are currently no test instructions for this project.
+No test instructions at this time.
 
 ## Questions
 
